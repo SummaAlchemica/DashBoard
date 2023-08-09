@@ -1,0 +1,24 @@
+POMODORO PRODUCTIVITY APP similar to https://pomofocus.io
+Pomodoro timer
+    Time
+        Pomo time
+        Short break
+        ong break
+        Break interval
+        Time of day 
+        % work done
+        Most productive days graph
+        Average pomodoros / day
+        Github streak style calendar
+    B-Tree to do list
+        Takes dependencies and pushes them to stack to give you next task to work on
+        Auto switch tasks
+    Aesthetics 
+        Background noise
+        Alarm sounds (# of times, volume, sound)
+        Colors (Light / dark mode)
+Login page
+    Auth0 
+
+
+
